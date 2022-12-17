@@ -1,70 +1,17 @@
-# Getting Started with Create React App
+##Helpchain
+The second wave of CoronaVirus has proven to be more dangerous and deadly especially in India. India has been a worse hit - medically as well as financially.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+###🎯 What it does
+The App presents statistics of covid-19 within India and also accepts user input for necessary covid-19 PAN resources. However, the main functionality of this app is to accept donations from various contributors ( in ETHERS) and become stakeholders of a crowdfunding blockchain. Patients struggling financially can register and apply for ethers at the app and after approval from 51% of the stakeholders, they can receive the help they need.
 
-## Available Scripts
+###💻 How we built it
+We have used React Js, CSS, and Style components to create the front end of the application. The backend was created using solidity (0.4.24) and Remix IDE to construct the smart contract.
 
-In the project directory, you can run:
+###🛠 Challenges we ran into
+We ran into major issues while connecting the entire web app to MetaMask which acts as a wallet and is essential for use of ethereum blockchain and its related concepts. However, we were able to overcome this challenge after researching a little bit.
 
-### `npm start`
+###📍 Accomplishments that we're proud of
+In such dangerous times, we were successfully able to bring a product to everyone that is helpful to everyone and is very relatable under present circumstances. This crowdfunding campaign pays off as financially struggling people amidst this crisis can get help here.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+###🔎 What's next for HelpChain
+HelpChain is initially made to combat Covid-19 but since the backend is based upon crowdfunding it can be used in the future to collect funds and charities and introduce blockchain into a new field eventually.
