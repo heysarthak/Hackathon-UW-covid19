@@ -1,5 +1,8 @@
 ## Helpchain
 
+> [!NOTE]
+> This is a Note
+
 The second wave of CoronaVirus has proven to be more dangerous and deadly especially in India. India has been a worse hit - medically as well as financially.
 
 ### 🎯 What it does
